@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Piotr",
+        "surname": "Kowalski",
+        "age": 26,
+        "proffession": "Tatuażysta",
+        "city": "Łódź",
+        "education": "Magister",
+        "story": "Piotr od chwili zajęcia I miejsca w konkursie plastycznym w liceum marzył o tym, żeby otworzyć własne studio tatuażu inspirowane światem zwierząt i motywami plemiennymi. A od dwóch lat jest spełnionym właścicielem prywatnego studia tatuażu „Tatoo in the Zoo”. Wcześniej przez kilka miesięcy pracował w studiu tatuażu jako pracownik, ale szybko spostrzegł, że brakuje mu wolności i niezależności. Uważał także, że praca dla kogoś nie umożliwia mu dalszego rozwoju zawodowego, więc postanowił otworzyć własną działalność. Piotr zwykle rozpoczyna swój dzień pracy około godziny 7 od przejrzenia swoich maili oraz przeglądu terminarza z godzinami wizyt swoich klientów. Następnie wysyła przypomnienia klientom na dzień następny i udaje się do swojego niewielkiego studia tatuażu na parterze kamienicy niedaleko Łódzkiego rynku. Od godziny 8 do godziny 15 przyjmuje swoich klientów, po czym zamyka lokal i zajmuje się przez około godzinę sprawami związanymi z działalnością firmy. Odpisuje na maile i zapytania, realizuje formalności związane z prowadzeniem firmy, dodaje wpisy na portalach społecznościowych, monitoruje skuteczność zakupionych reklam i prowadzi aktywny dialog z przedsiębiorcami i organizatorami wydarzeń, którzy mogą zwiększyć popularność jego zakładu. Na koniec dnia sprawdza, którzy klienci potwierdzili terminy z dnia następnego i zaznacza na czerwono klientów, do których będzie musiał zadzwonić z samego rana, by potwierdzić ich obecność.",
+        "goals": [
+            "Optymalizacja kosztów prowadzenia firmy",
+            "Oszczędzenie czasu na realizacji formalności urzędowych",
+            "Świadome podejmowanie decyzji w sprawach formalnych",
+            "Sprawne monitorowanie komunikacji z urzędami"
+        ],
+        "needs": [
+            "Dostosowanie decyzji formalnych i urzędowych do aktualnej sytuacji w firmie",
+            "Dostęp do przejrzystej informacji na temat aktualnych przepisów oraz regulacji",
+            "Szybki i intuicyjny oraz bezpieczny sposób realizacji spraw urzędowych",
+            "Dostęp do jednego, czytelnego archiwum przechowującego historię korespondencji z urzędami w sprawie prowadzonej działalności gospodarczej"
+        ],
+        "helpfull": [
+            "Elektroniczny dostęp do kontaktu z urzędnikiem w celu rozwiania potencjalnych wątpliwości przy realizacji spraw urzędowych i księgowych on-line",
+            "Dostęp do portalu z treściami merytorycznymi dotyczącymi prowadzenia działalności gospodarczej w zakresie podatkowym, urzędowym i prawnym w postaci nagrań wideo",
+            "Funkcjonalność powiadomień dotyczących branży w której prowadzona jest działalność oraz zmian w przepisach, które mogą dotyczyć przedsiębiorcy"
+        ],
+        "threads": [
+            "Nieprawidłowy wybór formy opodatkowania",
+            "Upadek firmy wywołany problemami z ZUS’em i urzędem skarbowym",
+            "Ponoszenie odpowiedzialności z powodu nieprawidłowo zrealizowanych formalności prawnych",
+            "Zbyt duża konkurencja na rynku"
+        ]
+    },
+    {
+        "name": "Piotr",
+        "surname": "Kowalski",
+        "age": 26,
+        "proffession": "Tatuażysta",
+        "city": "Łódź",
+        "education": "Magister",
+        "story": "Piotr od chwili zajęcia I miejsca w konkursie plastycznym w liceum marzył o tym, żeby otworzyć własne studio tatuażu inspirowane światem zwierząt i motywami plemiennymi. A od dwóch lat jest spełnionym właścicielem prywatnego studia tatuażu „Tatoo in the Zoo”. Wcześniej przez kilka miesięcy pracował w studiu tatuażu jako pracownik, ale szybko spostrzegł, że brakuje mu wolności i niezależności. Uważał także, że praca dla kogoś nie umożliwia mu dalszego rozwoju zawodowego, więc postanowił otworzyć własną działalność. Piotr zwykle rozpoczyna swój dzień pracy około godziny 7 od przejrzenia swoich maili oraz przeglądu terminarza z godzinami wizyt swoich klientów. Następnie wysyła przypomnienia klientom na dzień następny i udaje się do swojego niewielkiego studia tatuażu na parterze kamienicy niedaleko Łódzkiego rynku. Od godziny 8 do godziny 15 przyjmuje swoich klientów, po czym zamyka lokal i zajmuje się przez około godzinę sprawami związanymi z działalnością firmy. Odpisuje na maile i zapytania, realizuje formalności związane z prowadzeniem firmy, dodaje wpisy na portalach społecznościowych, monitoruje skuteczność zakupionych reklam i prowadzi aktywny dialog z przedsiębiorcami i organizatorami wydarzeń, którzy mogą zwiększyć popularność jego zakładu. Na koniec dnia sprawdza, którzy klienci potwierdzili terminy z dnia następnego i zaznacza na czerwono klientów, do których będzie musiał zadzwonić z samego rana, by potwierdzić ich obecność.",
+        "goals": [
+            "Optymalizacja kosztów prowadzenia firmy",
+            "Oszczędzenie czasu na realizacji formalności urzędowych",
+            "Świadome podejmowanie decyzji w sprawach formalnych",
+            "Sprawne monitorowanie komunikacji z urzędami"
+        ],
+        "needs": [
+            "Dostosowanie decyzji formalnych i urzędowych do aktualnej sytuacji w firmie",
+            "Dostęp do przejrzystej informacji na temat aktualnych przepisów oraz regulacji",
+            "Szybki i intuicyjny oraz bezpieczny sposób realizacji spraw urzędowych",
+            "Dostęp do jednego, czytelnego archiwum przechowującego historię korespondencji z urzędami w sprawie prowadzonej działalności gospodarczej"
+        ],
+        "helpfull": [
+            "Elektroniczny dostęp do kontaktu z urzędnikiem w celu rozwiania potencjalnych wątpliwości przy realizacji spraw urzędowych i księgowych on-line",
+            "Dostęp do portalu z treściami merytorycznymi dotyczącymi prowadzenia działalności gospodarczej w zakresie podatkowym, urzędowym i prawnym w postaci nagrań wideo",
+            "Funkcjonalność powiadomień dotyczących branży w której prowadzona jest działalność oraz zmian w przepisach, które mogą dotyczyć przedsiębiorcy"
+        ],
+        "threads": [
+            "Nieprawidłowy wybór formy opodatkowania",
+            "Upadek firmy wywołany problemami z ZUS’em i urzędem skarbowym",
+            "Ponoszenie odpowiedzialności z powodu nieprawidłowo zrealizowanych formalności prawnych",
+            "Zbyt duża konkurencja na rynku"
+        ]
+    },
+    {
+        "name": "Piotr",
+        "surname": "Kowalski",
+        "age": 26,
+        "proffession": "Tatuażysta",
+        "city": "Łódź",
+        "education": "Magister",
+        "story": "Piotr od chwili zajęcia I miejsca w konkursie plastycznym w liceum marzył o tym, żeby otworzyć własne studio tatuażu inspirowane światem zwierząt i motywami plemiennymi. A od dwóch lat jest spełnionym właścicielem prywatnego studia tatuażu „Tatoo in the Zoo”. Wcześniej przez kilka miesięcy pracował w studiu tatuażu jako pracownik, ale szybko spostrzegł, że brakuje mu wolności i niezależności. Uważał także, że praca dla kogoś nie umożliwia mu dalszego rozwoju zawodowego, więc postanowił otworzyć własną działalność. Piotr zwykle rozpoczyna swój dzień pracy około godziny 7 od przejrzenia swoich maili oraz przeglądu terminarza z godzinami wizyt swoich klientów. Następnie wysyła przypomnienia klientom na dzień następny i udaje się do swojego niewielkiego studia tatuażu na parterze kamienicy niedaleko Łódzkiego rynku. Od godziny 8 do godziny 15 przyjmuje swoich klientów, po czym zamyka lokal i zajmuje się przez około godzinę sprawami związanymi z działalnością firmy. Odpisuje na maile i zapytania, realizuje formalności związane z prowadzeniem firmy, dodaje wpisy na portalach społecznościowych, monitoruje skuteczność zakupionych reklam i prowadzi aktywny dialog z przedsiębiorcami i organizatorami wydarzeń, którzy mogą zwiększyć popularność jego zakładu. Na koniec dnia sprawdza, którzy klienci potwierdzili terminy z dnia następnego i zaznacza na czerwono klientów, do których będzie musiał zadzwonić z samego rana, by potwierdzić ich obecność.",
+        "goals": [
+            "Optymalizacja kosztów prowadzenia firmy",
+            "Oszczędzenie czasu na realizacji formalności urzędowych",
+            "Świadome podejmowanie decyzji w sprawach formalnych",
+            "Sprawne monitorowanie komunikacji z urzędami"
+        ],
+        "needs": [
+            "Dostosowanie decyzji formalnych i urzędowych do aktualnej sytuacji w firmie",
+            "Dostęp do przejrzystej informacji na temat aktualnych przepisów oraz regulacji",
+            "Szybki i intuicyjny oraz bezpieczny sposób realizacji spraw urzędowych",
+            "Dostęp do jednego, czytelnego archiwum przechowującego historię korespondencji z urzędami w sprawie prowadzonej działalności gospodarczej"
+        ],
+        "helpfull": [
+            "Elektroniczny dostęp do kontaktu z urzędnikiem w celu rozwiania potencjalnych wątpliwości przy realizacji spraw urzędowych i księgowych on-line",
+            "Dostęp do portalu z treściami merytorycznymi dotyczącymi prowadzenia działalności gospodarczej w zakresie podatkowym, urzędowym i prawnym w postaci nagrań wideo",
+            "Funkcjonalność powiadomień dotyczących branży w której prowadzona jest działalność oraz zmian w przepisach, które mogą dotyczyć przedsiębiorcy"
+        ],
+        "threads": [
+            "Nieprawidłowy wybór formy opodatkowania",
+            "Upadek firmy wywołany problemami z ZUS’em i urzędem skarbowym",
+            "Ponoszenie odpowiedzialności z powodu nieprawidłowo zrealizowanych formalności prawnych",
+            "Zbyt duża konkurencja na rynku"
+        ]
+    }
+]
