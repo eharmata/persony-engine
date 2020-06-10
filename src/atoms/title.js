@@ -4,7 +4,7 @@ import styled from 'styled-components';
 
 const Title = ({name, surname}) => {
     return (
-    <h1 className="display-1">{name} {surname}</h1>    
+    <h1 className="pl-4 display-2 text-white">{name} {surname}</h1>    
     )
 }
 

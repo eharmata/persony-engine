@@ -1,14 +1,20 @@
 import React from 'react';
 import styled from 'styled-components';
 
+const Dark = styled.span`
+color: #343a40;
+font-weight: bold;
+text-transform: uppercase;
+`;
 
-const Metric = ({age, proffesion, education, city}) => {
+
+const Metric = ({age, proffession, education, city}) => {
     return (
-    <div>
-        <p>Wiek: {age}</p>
-        <p>Wykształcenie: {education}</p>
-        <p>Zawód: {proffesion}</p>
-        <p>Miejsce zamieszkania: {city}</p>
+    <div className="p-4">
+        <p><Dark>Wiek:</Dark> {age}</p>
+        <p><Dark>Wykształcenie:</Dark> {education}</p>
+        <p><Dark>Zawód:</Dark> {proffession}</p>
+        <p><Dark>Miejsce zamieszkania:</Dark> {city}</p>
     </div>  
     ) 
 }
