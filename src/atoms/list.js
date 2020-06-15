@@ -10,6 +10,10 @@ padding: 1rem;
 
 const Wrapper = styled.div`
     padding: 1rem;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 `;
 
 

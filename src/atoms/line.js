@@ -47,6 +47,17 @@ const Kid = styled.div`
         top:12px;
         color: black;
     }
+    &:last-child {
+        &:after {
+            content: 'lat';
+            position: relative;
+            display: inline-block;
+            font-size: 1.2rem;
+            top: -6px;
+            right: -35px;
+
+        }
+    }
 `;
 const kidsArr = [0,1,2,3,4,5,6,7,8]
 

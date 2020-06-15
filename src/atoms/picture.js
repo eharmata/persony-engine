@@ -9,7 +9,6 @@ height: auto;
 
 
 const Picture = ({imageUrl}) => {
-    console.log(imageUrl)
     return (
     <Image src={imageUrl} alt="persona" />   
 )

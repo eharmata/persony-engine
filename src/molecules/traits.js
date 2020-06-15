@@ -13,7 +13,6 @@ const Traits = ({traits, color}) => {
     <Wrapper>
         {traits.map((el, index) => (
             <Line color={color} key={index} name={el.name} range={el.range} value={el.value} divided={el.divided || false}/>
-
         ))}
     </Wrapper>
     )
