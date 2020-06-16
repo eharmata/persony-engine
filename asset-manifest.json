@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/persony-engine/static/css/main.7492db9e.chunk.css",
+    "main.js": "/persony-engine/static/js/main.33d58c04.chunk.js",
+    "main.js.map": "/persony-engine/static/js/main.33d58c04.chunk.js.map",
+    "runtime-main.js": "/persony-engine/static/js/runtime-main.a196579b.js",
+    "runtime-main.js.map": "/persony-engine/static/js/runtime-main.a196579b.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/persony-engine/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2ef3d903.chunk.js": "/persony-engine/static/js/2.2ef3d903.chunk.js",
+    "static/js/2.2ef3d903.chunk.js.map": "/persony-engine/static/js/2.2ef3d903.chunk.js.map",
+    "index.html": "/persony-engine/index.html",
+    "precache-manifest.6eedad55316825a81f1b2b4d3150c6f6.js": "/persony-engine/precache-manifest.6eedad55316825a81f1b2b4d3150c6f6.js",
+    "service-worker.js": "/persony-engine/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/persony-engine/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.7492db9e.chunk.css.map": "/persony-engine/static/css/main.7492db9e.chunk.css.map",
+    "static/js/2.2ef3d903.chunk.js.LICENSE.txt": "/persony-engine/static/js/2.2ef3d903.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a196579b.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2ef3d903.chunk.js",
+    "static/css/main.7492db9e.chunk.css",
+    "static/js/main.33d58c04.chunk.js"
+  ]
+}
