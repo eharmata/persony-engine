@@ -4,7 +4,7 @@
         "surname": "Kowalski",
         "color": "#343a40",
         "traitColor": "navy",
-        "img": "/img/piotr.jpg",
+        "img": "./img/piotr.jpg",
         "age": 26,
         "proffession": "Tatuażysta/Właściciel firmy",
         "city": "Łódź",
@@ -46,7 +46,7 @@
         "surname": "Nowak",
         "color": "#24482e",
         "traitColor": "#660000",
-        "img": "/img/krystyna.jpg",
+        "img": "./img/krystyna.jpg",
         "age": 42,
         "proffession": "Urzędniczka",
         "city": "Warszawa",
@@ -76,7 +76,7 @@
             "Personalizowane raporty i statystyki"
         ],
         "threads": [
-            "Problemy z osbługą petentów wywołane nieprawidłowym/zbyt wolnym działaniem portalu",
+            "Problemy z osbługą petentów wywołane nieprawidłowym/zbyt wolnym działaniem aplikacji urzędnika",
             "Długi czas obsługi z powodu problemów z określniem i odnalezieniem właściwego kodu PKD",
             "Przedłużające czas obsługi działanie captchy",
             "Utrata wprowadzonych danych z powodu automatycznego wylogowania z systemu"
@@ -87,7 +87,7 @@
         "surname": "Głowacki",
         "color": "#660000",
         "traitColor": "#246a2e",
-        "img": "/img/miron.jpg",
+        "img": "./img/miron.jpg",
         "age": 36,
         "proffession": "Radca prawny (pełnomocnik)",
         "city": "Poznań",
@@ -101,7 +101,7 @@
         ],
         "story": "Miron od lat cieszy się poważaniem w środowisku prawinczym, za wyjątkową kreatwyność, która pomogła mu wyciągnąć niejedną firmę z tarapatów. Swoją prawniczą karierę rozpoczął jako prokurator, jednak szybko zrezygnował z tej ściezki kariery ze względu na bardzo żmudną i długą drogę do prawdziwej walki z niesprawiedliwością. Wobec tego postanowił spożytkować swoje siły, ambicję i intelekt w ramach wspieranaia młodych biznesmenów oraz startupów we wchodzeniu na rynek. Po pewnym czasie spostrzegł, że jego kompetencje nadają się nie tylko do wspierania startupów, ale także do wspierania upadających firm i korporacji. Od tej chwili pracował nad własnym 'pogotowiem firmowym', które ratowało duże firmy przed upadkiem. Zwykle swój dzień pracy rozpoczyna od wizyty w swoim biurze o godzinie 9 gdzie weryfikuje terminy spotkań, a następnie spotyka się z klientami i bierze udział w rozprawach. Zazwyczaj około 13 stara się realizować wszelkie sprawy urzędowe, a spotkania z nowymi klientami ustala na godziny popołudniowe około 16, by mieć możliwość zostania z klientem w spokoju, w przypadku gdyby spotkanie się przeciągało. W wolnym czasie jeździ konno i strzela z wiatrówki. Lubi także kuchnie śródziemnomorską i co roku spędza wakacje we Włoszech.",
         "goals": [
-            "Wspieranie firm w osiaganiu celów poprzez skuteczną jej reprezentację w sprawach formalnych",
+            "Wspieranie firm w osiaganiu celów i jej skuteczną reprezentację w sprawach formalnych",
             "Skuteczna realizacja spraw urzędowych",
             "Doradzanie właścicielowi firmy",
             "Wnoszenie i odbieranie winosków/pism procesowych/podań"
@@ -127,7 +127,7 @@
         "surname": "Kamiński",
         "color": "#11aaff",
         "traitColor": "#562f7e",
-        "img": "/img/oskar.jpg",
+        "img": "./img/oskar.jpg",
         "age": 24,
         "proffession": "Programista (przyszły przedsiębiorca)",
         "city": "Wrocław",
@@ -141,7 +141,7 @@
         ],
         "story": "Oskar od dziecka fascynował świat komputerów, a swój pierwszy program napisał jeszcze w podstawówce. Obecnie kończy studia magisterskie na kierunku informatycznym i stawia swoje pierwsze kroki jako stażysta w jednej z korporacji posiadających okazały biurowiec w sercu Wrocławia. Doskonale zdaje sobie sprawę, że w przeciągu dwóch lat założenie firmy nie będzie dla niego tylko pomysłem na siebie, ale wręcz ekonomiczną koniecznościa z powodu niekorzystnego opodatkowania w przypadku pozostaniu przy umowie o pracę. Pomimo posiadania dogłębnej wiedzy informatycznej i analitycznego umysłu, obawia się, że świat przepisów i księgowości może go przerosnąć. Swój przeciętny dzień rozpoczyna pracy rozpoczyna o 8 rano od standup'u ze swoimi kolegami z zespołu. Następnie przez pozostały czas pracuje nad budową innowacyjnej aplikacji bankowej. Około 14 zwykle bierze udział w wewnątrzfirmowych szkoleniach i spotkaniach dla stażystów. O godzinie 16 opuszcza pracę i zazwyczaj odwiedza po drodze do domu budkę z najlepszymi hamburgerami w mieście. W czasie wolnym lubi grać w gry rpg oraz pisać własne gry przeglądarkowe. Dla oderwania od ekranu komputera przemierza długie dystanse na rowerze, a każdą podróż dokumentuje na swoim blogu.",
         "goals": [
-            "Optymalizacja kosztów opodatkowania pracy",
+            "Opodatkowanie działalności na korzystnych warunkach",
             "Rozszerzenie działalności poza obszar jednej firmy",
             "Możliwość świadczenia usług i wystawiania faktur",
             "Budowa profesjonalnego wizerunku i marki osobistej"
@@ -153,13 +153,13 @@
             "Dostęp do sprawdzonego i zatwierdzonego przez rząd źródła informacji oraz instruktarzy w zakresie prowadzenia działalności gospodarczej"
         ],
         "helpfull": [
-            "Prosta i intuicyjna wszukiwarka kodów PKD wraz z informacją dotyczącą specifiki kodów dla określonej branży",
+            "Prosta i intuicyjna wszukiwarka kodów PKD wraz z informacją dotyczącą specyfiki kodów dla określonej branży",
             "Dostęp do portalu umożliwiającego sprawną komunikację formalną z urzędami",
             "Aplikacja mobilna do zarzadzania sprawami urzędowymi firmy"
         ],
         "threads": [
             "Zwiększenie kosztów wykonywania pracy",
-            "Poniesienie konsekwencji finansowych z powodu nieprawidłowego zrealizowania formalności",
+            "Poniesienie konsekwencji finansowych z powodu nieprawidłowego załatwienia formalności",
             "Zmarnowanie czasu i nerwów na nieskuteczne rejestrowanie firmy",
             "Popełnienie błędów formalnych wskutek niedostatecznej znajomości prawa i ponoszenie z tego powodu dodatkowych kosztów"
         ]
@@ -169,7 +169,7 @@
         "surname": "Kulczyk",
         "color": "navy",
         "traitColor": "#ccbf00",
-        "img": "/img/marta.jpg",
+        "img": "./img/marta.jpg",
         "age": 53,
         "proffession": "Księgowa/Dyrektor firmy",
         "city": "Kraków",
@@ -197,7 +197,7 @@
             "Dostęp do platformy umożliwiajacej rozliczenie w jednym miejscu ze wszystkimi urzędami"
         ],
         "threads": [
-            "Ponoszenie kosztów wskutek nieoptymalnie dobranej formy opodatkowania",
+            "Ponoszenie kosztów wskutek źle dobranej formy opodatkowania",
             "Zbyt wolne dostosowywanie procedur w firmie względem tempa zmieniającego się prawa",
             "Utrata klientów z powodu nieefektywnego zajmowania się ich księgowością wskutek niedostatecznej informacji",
             "Utrudniona komunikacja z urzędami spowalniająca całą firmę"
